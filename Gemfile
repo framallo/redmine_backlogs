@@ -1,0 +1,5 @@
+gem 'prawn'
+gem 'icalendar'
+gem 'holidays'
+gem 'open-uri-cached'
+gem 'nokogiri'
